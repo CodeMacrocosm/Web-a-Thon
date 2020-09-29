@@ -17,14 +17,14 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Now let's bring the cloned repository to your local machine.  
 `git clone <url-you-just-copied>`  
 For example:  
-` git clone https://github.com/CodeMacrocosm/startup.git`
+` git clone https://github.com/CodeMacrocosm/HactoberFest2020.git`
 
 ---
 
 ## 3. Move inside the repository
 
 Since you want to change the files inside, first let's move to the folder correctly. Use the following command on terminal:  
-`cd startup`
+`cd HacktoberFest2020`
 
 ---
 
@@ -62,7 +62,7 @@ For example:
 
 ---
 
-## 7. Hit me a pull request
+## 7. Hit us a pull request
 
 If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
 Now submit the pull request. Leave a custom message if you want.
