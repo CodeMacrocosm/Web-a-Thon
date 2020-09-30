@@ -6,3 +6,5 @@
 -->
 
 I [Shreya](https://github.com/5hre9a) suggests you to be patient while coding and solving issues to get better results.
+
+I [Tina](https://github.com/5hre9a) suggests you to be a good learner.
