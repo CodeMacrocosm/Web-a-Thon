@@ -9,7 +9,6 @@
 I [Shreya](https://github.com/5hre9a) recommend [Beginner level Devlopment](https://www.w3schools.com/)
 
 I [hemabhagnani](https://github.com/hemabhagnani) recommend [Flutter beginner Tutorial](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
-I [Shreya](https://github.com/5hre9a) recommend [Beginner level Devlopment](https://www.w3schools.com/).
 
 I [Tina](https:github.com/5hre9a) recommend [Free Code Camp](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.freecodecamp.org/&ved=2ahUKEwjFqsSPzpHsAhVROisKHaXDD3AQFjAAegQICRAD&usg=AOvVaw2O9Sbs3zh9NHmRpWZrEZt-).
 
