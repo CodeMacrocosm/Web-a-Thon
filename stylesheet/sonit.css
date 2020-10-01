@@ -1,0 +1,41 @@
+body {
+    /* background: rgb(34,193,195); */
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+  }
+  
+  h1 {
+    font-size: 3rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .center {
+      text-align: center;
+  }
+
+  p {
+      color: antiquewhite;
+      font-size: 1.5rem;
+  }
+
+  h3 {
+      color: white;
+      font-size: 2rem;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+  }
