@@ -28,3 +28,5 @@ I [Shruthi](https://gitHub.com/shruthi-kotawar) suggest you Never sit for long b
 I [Niharika](https://gitHub.com/Niharikaponugoti) suggest you to Learn by doing. Always play with the code while learning.
 
 I  [chandrasangna](https://github.com/shruthi-kotawar) suggest you Starting your software development career can be scary,but also very exciting
+
+I. [srujana](https://GitHub.com/srujana-55) suggest you don't be affraid from coding just you have to start from base learning.
