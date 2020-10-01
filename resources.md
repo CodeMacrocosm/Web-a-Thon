@@ -10,6 +10,8 @@ I [Shreya](https://github.com/5hre9a) recommend [Beginner level Devlopment](http
 
 I [Tina](https:github.com/5hre9a) recommend [Free Code Camp](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.freecodecamp.org/&ved=2ahUKEwjFqsSPzpHsAhVROisKHaXDD3AQFjAAegQICRAD&usg=AOvVaw2O9Sbs3zh9NHmRpWZrEZt-).
 
+I Manik recommend you to use [first pull](https://github.com/Manik-Chauhan/first-contributions) for your first pull request.
+
 
 I [Sneha](https:github.com/5hre9a) recommend to practice problems as much as you can from below platforms:
  * [HackerRank](http://hackerrank.com) - Solve code challenges to prepare for programming interviews.
