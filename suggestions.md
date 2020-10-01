@@ -21,3 +21,4 @@ I [Mousumi Das](https://github.com/MousumiDas625) suggest you to first go throug
 
 
 
+I [Prakash kumar](https://github.com/prakash-sah-lab) suggest you to don't think coding is hard . You start learning from zero level , firstly watch some video and know about language. 
