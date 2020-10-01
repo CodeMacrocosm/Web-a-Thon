@@ -1,0 +1,25 @@
+body {
+    background: #485566;
+    background: -webkit-linear-gradient(to right, #29323c, #485563);
+    background: linear-gradient(to right, #29323c, #485563);
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20%;
+  }
+
+  h1:hover {
+    font-size: 5rem;
+    color: rgb(207, 21, 198);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10%;
+  }

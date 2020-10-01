@@ -1,0 +1,1 @@
+alert("That's my story");
