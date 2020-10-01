@@ -30,3 +30,4 @@ I [Sneha](https:github.com/5hre9a) recommend to practice problems as much as you
 I [Prakash](https://github.com/prakash-sah-lab) recommend [Mr sir G](https://youtu.be/wdejN42iSEY).
 
 I [shruthi](https://github.com/shruthi-kotawar) recommend [nptel]( https://nptel.ac.in/).
+I [Niharika](https://github.com/niharikaponugoti) recommend [edwisely](https://www.edwisely.com/ )
