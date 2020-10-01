@@ -34,3 +34,5 @@ I [shruthi](https://github.com/shruthi-kotawar) recommend [nptel]( https://nptel
 I [Niharika](https://github.com/niharikaponugoti) recommend [edwisely](https://www.edwisely.com/)
 
 I [chandrasangna](https://github.com/chandrasangna.noundla) recommend [coursera](https://www.coursera.org/)
+
+I[Srujana](https://GitHub.com/srujana-55) recommend [swoyam](https://www.swoyam.org/)
