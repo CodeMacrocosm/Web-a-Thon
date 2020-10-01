@@ -17,3 +17,5 @@ I [Sneha](https://github.com/Snehakri022) suggests you to Don’t give up early,
 
 I [Anjali Soni](https://github.com/anjalisoni3655) suggest you to explore different fields be it machine learning, development, cyber security, etc atleast once. We will never know where we are actually interested if we dont give some time to explore that field by ourselves. Don't go with the current trend. Be yourself 🙂.
 
+I [Rachana] (https://github.com/trachana20) suggests you, If you are new to any domain of the Computer science, and working on a project, its better to do the research on the project by reading relevant books, materials and then start the work. Instead of starting off with the project directly and asking help (or using the already written material) on stackoverflow or github or any other platform for every small doubt, doing this would curb the creativity of individual.
+
