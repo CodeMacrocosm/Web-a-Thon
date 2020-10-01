@@ -19,3 +19,6 @@ I [Sneha](https:github.com/5hre9a) recommend to practice problems as much as you
  * [CodeForces](http://codeforces.com) - Russian website dedicated to competitive programming.
  * [ProjectEuler](http://projecteuler.net) - Solve computational and mathematical problems using your programming skills.
  * [LeetCode](https://leetcode.com) - Develop programming skills for your next interview.
+ 
+ I [Anjali Soni](https://github.com/anjalisoni3655) recommend [Sololearn](https://www.sololearn.com/). It's also supported in mobile phones. Really a nice platform to learn quickly by doing hands-on coding.
+
