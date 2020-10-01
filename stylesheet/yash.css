@@ -1,0 +1,79 @@
+
+div
+{
+    background-color: teal;
+    border-color: black;
+    border-width: 10px;
+    width: 5px;
+    height: 25%;
+    position: absolute;
+    transition-property: width;
+    transition-delay: 25ms;
+    transition-duration: 3s;
+}
+#lbar1
+{
+    position: absolute;
+    top: 0;
+    left: 1px;
+}
+#lbar2
+{
+    position: absolute;
+    top: 50%;
+    left: 1px;
+}
+#rbar1
+{
+    top: 25%;
+    right: 1px;
+}
+#rbar2
+{
+    top: 75%;
+    right: 1px;
+}
+#lbar1:hover
+{
+    width: 99%;
+}
+#lbar2:hover
+{
+    width: 99%;
+}
+#rbar1:hover
+{
+    width: 99%;
+}
+#rbar2:hover
+{
+    width: 99%;
+}
+#center
+{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    border-radius: 70px;
+    border-color: white;
+    border-width: 3px;
+}
+#load
+{
+    background-image: url('../images/GYny.gif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 99%;
+    height: 100%;
+    border-color: black;
+    border-width: 5px;
+    position: absolute;
+    top: 100%;
+    left: 0.5%;
+    transition-property: top;
+    transition-delay: 3100ms;
+    transition-duration: 2s;
+}
