@@ -25,3 +25,4 @@ I [Prakash kumar](https://github.com/prakash-sah-lab) suggest you to don't think
 
 I [Shruthi](https://gitHub.com/shruthi-kotawar) suggest you Never sit for long between programming. I always resolve real hard problems from taking a walk.
 I [Niharika](https://gitHub.com/Niharikaponugoti) suggest you to Learn by doing. Always play with the code while learning
+I  [chandrasangna](https://github.com/shruthi-kotawar) suggest you Starting your software development career can be scary,but also very exciting
