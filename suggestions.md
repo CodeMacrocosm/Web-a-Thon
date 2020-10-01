@@ -9,6 +9,8 @@ I [Shreya](https://github.com/5hre9a) suggests you to be patient while coding an
 
 I [hemabhagnani50](https://github.com/hemabhagnani) suggests you that do not worry that others are better than you, just keep in mind that you can and you will.
 
+I [uzumakinaruto96](https://github.com/uzumakinaruto96) suggest you that always believe in yourself
+
 I [Tina](https://github.com/5hre9a) suggests you to never stop learning.
 
 I [Abhishek Vishwakarma](https://github.com/Abhishek765) suggests you a playlist where you can learn complete web development from html,css,js to backend and Deployment too!! just follow the Link (https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg).
