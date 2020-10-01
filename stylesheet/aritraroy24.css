@@ -1,0 +1,108 @@
+@media all and (max-width: 2560px) {
+    .fullpage{
+        max-width:95vw;
+    }
+    html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+    #img1 {
+        width: 100%;
+    }
+    #ari{
+        color:white;
+        font-weight:bolder;
+        font-size: 3.5vw;
+        margin: 0;
+        padding: 0;
+    }
+    #job{
+        color:white;
+        font-size:1.5vw;
+        padding: 0;
+        margin: 0;
+    }
+    .skill div p {
+        font-size: 1.1vw;
+    }
+    .skill p {
+        font-size: 1.2vw;
+    }
+    .skill p img {
+        width:6%;
+        height:3%;
+    }
+    #html{
+        width: 95%;
+        height: 10px;
+    }
+    #css{
+        width: 90%;
+        height: 10px;
+    }
+    #js{
+        width: 84%;
+        height: 10px;
+    }
+    #python{
+        width: 75%;
+        height: 10px;
+    }
+    #php{
+        width: 80%;
+        height: 10px;
+    }
+    #eng {
+        width: 85%;
+        height:5px;
+    }
+    #hindi {
+        width: 72%;
+        height:5px;
+    }
+    #beng {
+        width: 100%;
+        height:5px;
+    }
+    .projects p {
+        font-size: 1vw;
+    }
+    .projects p a button{
+        background-color:teal;
+        color:white;
+        margin:6px;
+        text-decoration: underline teal;
+    }
+}
+@media all and (max-width: 1200px) {
+    .projects p {
+        font-size: 1.5vw;
+    }
+}
+@media all and (max-width: 800px) {
+    .fullpage{
+        max-width:100vw;
+    }
+    .projects p {
+        font-size: 1.8vw;
+    }
+}
+@media all and (max-width: 600px) {
+    #ari{
+        font-size: 5.5vw;
+    }
+    #job{
+        font-size:3.5vw;
+    }
+    .skill div p {
+        font-size: 3vw;
+    }
+    .skill p {
+        font-size: 2.7vw;
+    }
+    .projects p {
+        font-size: 2vw;
+    }
+}
+@media all and (max-width: 300px) {
+    .projects p {
+        font-size: 1.8vw;
+    }
+}
