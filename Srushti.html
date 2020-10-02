@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <meta name="viewport" content="width=device-width , initial-scale=1.0">
+        <meta charset ="UTF-8">
+        <title> Responsive website </title>
+        <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+            <div class="menu">
+                <ul>
+                    <li><a href="#" onclick="togglemenu()">Home</a></li>
+                    <li><a href="#" onclick="togglemenu()">About</a></li>
+                    <li><a href="#" onclick="togglemenu()">Training</a></li>
+                    <li><a href="#" onclick="togglemenu()">Team</a></li>
+                    <li><a href="#" onclick="togglemenu()">Contact</a></li>
+                    </ul>
+                    </div>
+           <main>
+              <section class="banner">
+            <header>
+                <h2 class="logo">Gym Title</h2>
+                <div class="toggle" onclick="togglemenu();"></div> 
+            </header>
+            <video src="Fitness.mp4" autoplay muted loop type="mp4"></video>
+            <div class="overlay"></div>
+            <div class="text">
+                <h2> Be Stronger</h2>
+                <h3> Never give up</h3>
+                <a href="#">Join us</a>
+                </div>
+                <ul class="sci">
+                    <li><a href="#"><img src="facebook.png"></a></li>
+                    <li><a href="#"><img src="twitter.png"></a></li>
+                    <li><a href="#"><img src="instagram.png"></a></li>
+                    </ul>
+            </section>
+           
+           </main>
+      <script type="text/javascript">
+        function togglemenu()
+        {
+            var menuToggle=document.querySelector('.toggle');
+                    menuToggle.classList.toggle('active');
+                    var banner=document.querySelector('.banner');
+                    banner.classList.toggle('active');
+        }
+    </script>
+            </body>
+            </html>
+
+
+
+
+
+            
