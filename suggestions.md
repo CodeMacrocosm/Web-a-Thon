@@ -27,8 +27,11 @@ I [Prakash kumar](https://github.com/prakash-sah-lab) suggest you to don't think
 
 I [Shruthi](https://gitHub.com/shruthi-kotawar) suggest you Never sit for long between programming. I always resolve real hard problems from taking a walk.
 
+I [Sameera](https://github.com/sameera-7) suggest you to  Use Version Control Software. 
+
 I [Niharika](https://gitHub.com/Niharikaponugoti) suggest you to Learn by doing. Always play with the code while learning.
 
 I  [chandrasangna](https://github.com/shruthi-kotawar) suggest you Starting your software development career can be scary,but also very exciting
 
 I. [srujana](https://GitHub.com/srujana-55) suggest you don't be affraid from coding just you have to start from base learning.
+
