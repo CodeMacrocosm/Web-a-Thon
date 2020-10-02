@@ -9,6 +9,8 @@ I [Shreya](https://github.com/5hre9a) suggests you to be patient while coding an
 
 I [hemabhagnani50](https://github.com/hemabhagnani) suggests you that do not worry that others are better than you, just keep in mind that you can and you will.
 
+I [uzumakinaruto96](https://github.com/uzumakinaruto96) suggest you that always believe in yourself
+
 I [Tina](https://github.com/5hre9a) suggests you to never stop learning.
 
 I [Abhishek Vishwakarma](https://github.com/Abhishek765) suggests you a playlist where you can learn complete web development from html,css,js to backend and Deployment too!! just follow the Link (https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg).
@@ -26,3 +28,10 @@ I [Prakash kumar](https://github.com/prakash-sah-lab) suggest you to don't think
 I [Shruthi](https://gitHub.com/shruthi-kotawar) suggest you Never sit for long between programming. I always resolve real hard problems from taking a walk.
 
 I [Sameera](https://github.com/sameera-7) suggest you to  Use Version Control Software. 
+
+I [Niharika](https://gitHub.com/Niharikaponugoti) suggest you to Learn by doing. Always play with the code while learning.
+
+I  [chandrasangna](https://github.com/shruthi-kotawar) suggest you Starting your software development career can be scary,but also very exciting
+
+I. [srujana](https://GitHub.com/srujana-55) suggest you don't be affraid from coding just you have to start from base learning.
+

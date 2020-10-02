@@ -10,8 +10,6 @@ I [Shreya](https://github.com/5hre9a) recommend [Beginner level Devlopment](http
 
 I [hemabhagnani](https://github.com/hemabhagnani) recommend [Flutter beginner Tutorial](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
-I [Tina](https:github.com/5hre9a) recommend [Free Code Camp](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.freecodecamp.org/&ved=2ahUKEwjFqsSPzpHsAhVROisKHaXDD3AQFjAAegQICRAD&usg=AOvVaw2O9Sbs3zh9NHmRpWZrEZt-).
-
 I Manik recommend you to use [first pull](https://github.com/Manik-Chauhan/first-contributions) for your first pull request.
 
 
@@ -32,3 +30,15 @@ I [Prakash](https://github.com/prakash-sah-lab) recommend [Mr sir G](https://you
 I [shruthi](https://github.com/shruthi-kotawar) recommend [nptel]( https://nptel.ac.in/).
 
 I I [Sameera]( https://github.com/sameera-7) recommend you [Khan Academy](https://www.khanacademy.org/). 
+I [shruthi](https://github.com/shruthi-kotawar) recommend [nptel]( https://nptel.ac.in/)
+
+I [Niharika](https://github.com/niharikaponugoti) recommend [edwisely](https://www.edwisely.com/)
+
+I [chandrasangna](https://github.com/chandrasangna.noundla) recommend [coursera](https://www.coursera.org/)
+
+
+I [Dragon-fly-dev](https://github.com/dragon-fly-dev) recommend [openclassroom](https://www.openclassroom.com/)
+
+I[Srujana](https://GitHub.com/srujana-55) recommend [swoyam](https://www.swoyam.org/)
+
+I[Anwar Ali](https://github.com/Anwarali) recommend [Free Code camp](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.freecodecamp.org/&ved=2ahUKEwikyYvBh5XsAhVh6nMBHVbwAJgQFjAAegQICxAD&usg=AOvVaw2O9Sbs3zh9NHmRpWZrEZt-)

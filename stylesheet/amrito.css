@@ -1,6 +1,5 @@
-/* Best style ever seen */
 body {
-    background: #485563;
+    background: #485566;
     background: -webkit-linear-gradient(to right, #29323c, #485563);
     background: linear-gradient(to right, #29323c, #485563);
   }
@@ -12,7 +11,7 @@ body {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    margin-top: 10%;
+    margin-top: 20%;
   }
 
   h1:hover {
@@ -24,4 +23,3 @@ body {
     text-align: center;
     margin-top: 10%;
   }
-  
