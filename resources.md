@@ -8,6 +8,8 @@
 
 I [Shreya](https://github.com/5hre9a) recommend [Beginner level Devlopment](https://www.w3schools.com/)
 
+I [Anuj Khadka](https://github.com/Anuj-Khadka) recommend Youtube channels like [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), [Codewithharry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) and Websites like [W3school](https://www.w3schools.com/), [Python](https://www.python.org/doc/) for documantation learning. 
+
 I [hemabhagnani](https://github.com/hemabhagnani) recommend [Flutter beginner Tutorial](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
 I Manik recommend you to use [first pull](https://github.com/Manik-Chauhan/first-contributions) for your first pull request.
