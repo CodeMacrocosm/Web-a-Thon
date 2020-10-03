@@ -1,0 +1,1 @@
+alert('Brasil o melhor país');
