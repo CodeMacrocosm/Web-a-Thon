@@ -27,6 +27,7 @@ I [Sneha](https:github.com/5hre9a) recommend to practice problems as much as you
  I [Anjali Soni](https://github.com/anjalisoni3655) recommend [Sololearn](https://www.sololearn.com/). It's also supported in mobile phones. Really a nice platform to learn quickly by doing hands-on coding.
 
 
+
 I [Prakash](https://github.com/prakash-sah-lab) recommend [Mr sir G](https://youtu.be/wdejN42iSEY).
 
 I [shruthi](https://github.com/shruthi-kotawar) recommend [nptel]( https://nptel.ac.in/).
@@ -46,3 +47,7 @@ I[Srujana](https://GitHub.com/srujana-55) recommend [swoyam](https://www.swoyam.
 I[Anwar Ali](https://github.com/Anwarali) recommend [Free Code camp](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.freecodecamp.org/&ved=2ahUKEwikyYvBh5XsAhVh6nMBHVbwAJgQFjAAegQICxAD&usg=AOvVaw2O9Sbs3zh9NHmRpWZrEZt-)
 
 I[Bruno Almeida](https://github.com/Brunopbb) recommend [CBFCursos](https://www.youtube.com/user/canalfessorbruno)
+
+I[jyoti](https://github.com/jyoti88) recommend [Mr sir G](https://youtu.be/wdejN42iSEY) 
+[Khan Academy](https://www.khanacademy.org/).
+
