@@ -1,0 +1,42 @@
+<html>
+<head><meta charset="utf-8">
+<title>forms</title>
+</head>
+
+<body>
+	<h1>Personal Info</h1>
+
+	<form>
+		<label for="firstname" class="hidden">First name:</label>
+		<input id="firstname" type="text" placeholder="Firstname">
+
+		<label for="secondname" class="hidden">Second name:</label>
+        <input id="secondname" type="text" placeholder="Secondname">
+
+        <label for="email" class="hidden">Email:</label>
+        <input id="email" type="email" placeholder="Email">
+
+        <label for="telephone" class="hidden">Telephone:</label>
+        <input id="telephone"  type="tel" placeholder="Telephone">
+
+        <label for="password" class="hidden">Password</label>
+        <input type="password" name="password" id="password" placeholder="Password">
+
+        <label for="gender">select your <strong>gender<strong>:</label>
+        <select id="gender" name="gender">
+		<option value="male">Male</option>
+		<option value="female">Female</option>
+		<option value="None">None</option>
+		
+		</select>
+
+        <input type="submit" value="sign in">
+
+        <label>
+        	<input type="checkbox" name="remember" checked="checked" value="yes">
+        	<span class="checkbox-text">Stay signed in</span>
+        </label>
+
+	</form>
+</body>
+</html>
