@@ -3,10 +3,7 @@
   margin: 0;
   padding: 0;
 }
-.title {
- margin-top: 50px;
- font-size: 5rem;
-}
+
 body{
   display: flex;
   align-items: center;
