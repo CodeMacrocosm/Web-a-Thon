@@ -1,0 +1,46 @@
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+.container {
+    font-size: 2rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container > * {
+    padding: 2rem;
+    margin: 1rem;
+    border: 1px solid royalblue;
+}
+
+.container > * p {
+    width: max-content;
+    margin: 0 auto;
+}
+
+.container-1 {
+    color: brown;
+    background-color: beige;
+}
+
+.container-2 {
+    color: blue;
+    background-color: azure;
+}
+
+.container-3 {
+    color: tomato;
+    background-color: thistle;
+}
