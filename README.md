@@ -1,7 +1,6 @@
-<p align='center'> 
- <img src="https://img.shields.io/badge/-Hacktoberfest-brightgreen?style=for-the-badge" /></a>
 
- align="center">
+
+<p>align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
         <img src="assets/hacktober-logo.svg" width="30%">
     </a>
