@@ -51,4 +51,14 @@ I[Bruno Almeida](https://github.com/Brunopbb) recommend [CBFCursos](https://www.
 I[jyoti](https://github.com/jyoti88) recommend [Mr sir G](https://youtu.be/wdejN42iSEY) 
 [Khan Academy](https://www.khanacademy.org/).
 
-I [bhargavi](https://github.com/Bhargavirudravarapu) recommend [unschool] (https://www.unschool.in).
+I [bhargavi](https://github.com/Bhargavirudravarapu) recommend [unschool](https://www.unschool.in).
+
+I [Sahil](https://github.com/Sahil-k1509) would recommend Youtube if this is your starting in programming journey. Let me elaborate the advantages and suggest some channels.
+  * There are literally 100s of videos on every topic, so you can watch other videos if you don't understand any part from a certain video.
+  * If you are stuck at any point while following tutorials, Make sure to check out comments. I have solved a lot of my problems by just going through comments.
+  * All the videos that are available on youtube are free. You may be tempted to think that free lectures aren't as good as paid courses but I have seen playlists on youtube that were better than coursera and udemy courses for same topics.
+  * For python related topics, Check out: [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) . This guy is a python genius and all a lot of tutorials covering python automation, machine learning/deep learning, pygame etc
+  * For Best programming tutorials in any language, Follow: [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ). You can finnd literally anything on their channel from app development to web development to Game developement to even penetration testing. Even Maths, statistics etc. Freecodecamp is a heaven for learners.
+  * For Tutorials in Hindi and easy explanation, [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) is a perfect guy to follow. He has a lot of playlists covering many programming languages(PHP, JS, Python, C, C++, Java etc) and much more.
+  * Other Channels: [Net ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) [programming knowledge](https://www.youtube.com/user/ProgrammingKnowledge)
+  * Stack Overflow and geeksforgeeks is your friend if you are stuck and can't find solutions to it.
