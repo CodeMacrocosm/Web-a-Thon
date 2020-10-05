@@ -35,3 +35,4 @@ I  [chandrasangna](https://github.com/shruthi-kotawar) suggest you Starting your
 
 I. [srujana](https://GitHub.com/srujana-55) suggest you don't be affraid from coding just you have to start from base learning.
 
+I [Partha](https://github.com/parth93QA) suggest you to practise and learn do not worry about your mistakes you will eventually find your way.
