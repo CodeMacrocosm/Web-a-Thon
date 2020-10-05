@@ -62,3 +62,7 @@ I [Sahil](https://github.com/Sahil-k1509) would recommend Youtube if this is you
   * For Tutorials in Hindi and easy explanation, [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) is a perfect guy to follow. He has a lot of playlists covering many programming languages(PHP, JS, Python, C, C++, Java etc) and much more.
   * Other Channels: [Net ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) [programming knowledge](https://www.youtube.com/user/ProgrammingKnowledge)
   * Stack Overflow and geeksforgeeks is your friend if you are stuck and can't find solutions to it.
+I [Partha](https://github.com/parth93QA) would recommend going through a basic functional programming language initailly like python or golang, then learn about databases and then move over to webdevelopment slowly remember even Rome was not built in a day so always keep learning and keep growing.I would recommed courses over udemy and for open source yoyou always have good documentation as well.
+  * Some YouTube channels you can follow:
+    [Colt Steele](https://www.youtube.com/c/ColtSteeleCode/playlists)
+    [The New Boston](https://www.youtube.com/user/thenewboston)
