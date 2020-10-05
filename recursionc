@@ -1,0 +1,57 @@
+/**
+
+Draw stack layout of each program separately. Write a recursive program which display below pattern.
+
+Input :   5
+
+Output :   * * * * *
+
+**/
+
+#include<stdio.h>
+
+void DisplayI(int iNo)
+{
+   int i=1;
+
+   for(i=1;i<=iNo;i++)
+   {
+       printf("*\t");
+   }
+
+}
+
+
+void DisplayR(int iNo)
+{
+   static int i=1;
+
+   if(i<=iNo)
+   {
+       printf("*\t");
+       i++;
+       DisplayR(iNo);
+   }
+
+}
+
+
+
+int main()
+{
+    int iValue = 0;
+
+    printf("inside main");
+
+    printf("Enter number");
+    scanf("%d",&iValue);
+
+    DisplayI(iValue);
+
+    DisplayR(iValue);
+
+    printf("end of main");
+
+    return 0;
+
+}
