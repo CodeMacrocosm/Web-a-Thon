@@ -66,3 +66,4 @@ I [Partha](https://github.com/parth93QA) would recommend going through a basic f
   * Some YouTube channels you can follow:
     [Colt Steele](https://www.youtube.com/c/ColtSteeleCode/playlists)
     [The New Boston](https://www.youtube.com/user/thenewboston)
+  * Programming with Mosh, all you need is passion and determination. Check this youtube channel [Mosh](https://www.youtube.com/user/programmingwithmosh)
