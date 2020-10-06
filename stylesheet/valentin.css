@@ -1,0 +1,24 @@
+body {
+    margin-top: 50px;
+    padding: 10px;
+    background-image: url(../Images/valentin.jpg);
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: brown;
+}
+
+li, q, p {
+    color: fuchsia;
+}
+
+#question {
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 50px;
+}
