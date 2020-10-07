@@ -1,7 +1,8 @@
 body {
-    margin-top: 50px;
+    margin: 0;
     padding: 10px;
-    background-image: url(../Images/valentin.jpg);
+    background-color: darksalmon;
+    font-size: 24px;
 }
 
 h1 {
@@ -12,8 +13,13 @@ h3 {
     color: brown;
 }
 
-li, q, p {
+li {
     color: fuchsia;
+}
+
+hr {
+    margin-bottom: 50px;
+    width: 70%;
 }
 
 #question {
@@ -26,9 +32,11 @@ li, q, p {
 .blue {
     font-weight: 800;
     color: blue;
+    background-image: url(../Images/valentin.jpg);
+
 }
 
 #button {
     font-size: 50px;
-    margin-left: 300px;
+    border-radius: 5px;
 }
