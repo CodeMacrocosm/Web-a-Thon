@@ -1,0 +1,60 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    background: #ffff;
+}
+
+header h1{
+    margin: 50px 0 10px 20px;
+    animation-name: enter;
+    animation-duration: 2s;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section{
+    margin-left: 50px;
+    animation-name: enter;
+    animation-duration: 2s;
+}
+
+section p{
+    text-indent: 20px;
+    text-align: justify;
+    font-size: 14pt;
+}
+
+img{
+    width: 700px;
+    height: 500px;
+}
+
+a{
+    text-decoration: none;
+    color:#6000BF;
+    transition: all 500ms;
+    
+}
+a:hover{
+    font-weight: bold;
+}
+
+@keyframes enter{
+    from{
+        opacity: 0;
+        margin-left: 0;
+        transform: scale(0.5)
+    }
+    to{
+        opacity: 1;
+        margin-left: 20px;
+        transform: scale(1);
+    }
+  
+}

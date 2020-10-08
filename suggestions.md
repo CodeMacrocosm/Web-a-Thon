@@ -38,3 +38,5 @@ I. [srujana](https://GitHub.com/srujana-55) suggest you don't be affraid from co
 I [Partha](https://github.com/parth93QA) suggest you to practise and learn do not worry about your mistakes you will eventually find your way.
 
 I [MasterBrian99](https://github.com/MasterBrian99) suggests you No one is perfect...that's why IDE have Autocompletion.Never give up,Always be yourself.
+
+I [VivianeRamos](https://github.com/vivi3008) suggests that you persist even when you think you will not succeed.
