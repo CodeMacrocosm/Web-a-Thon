@@ -1,0 +1,113 @@
+/* Font icon colors, etc., are tedious and reside in another stylesheet */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  max-width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  transform-style: preserve-3d;
+  background-color: #000;
+}
+
+.page-wrap {
+  margin: 0;
+  padding: 0;
+  perspective: 1px;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  font-family: "avenir next", avenir, helvetica, "helvetica neue", arial,
+    sans-serif;
+  color: black;
+  background: none;
+}
+
+h1 {
+  font-size: 2.5em;
+  line-height: 1.2em;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.clickable {
+  transform: translateZ(0);
+}
+
+a {
+  color: rgb(222, 68, 21);
+  text-decoration: none;
+  width: 270px;
+  text-align: center;
+}
+
+a:hover {
+  color: rgb(0, 116, 217);
+}
+
+/* Off-screen text for accessibility */
+.screen-reader-text {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+#headshot {
+  width: 220px;
+  padding: 0.5em;
+  margin-bottom: -3em;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.4);
+}
+
+.content {
+  width: 80vw;
+  max-width: 45em;
+  padding: 1.5em 2em;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.75);
+  box-shadow: 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.4);
+}
+
+.card {
+  position: relative;
+  padding: 25vh 15px 25vh 2px;
+  min-height: 100%;
+  max-width: 100vw;
+  transform-style: inherit;
+}
+
+.card:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.card,
+.card:before {
+  background: 50% 50% / cover;
+}
+
+#card1 {
+  background: url(https://i.pinimg.com/originals/a9/12/25/a9122539bc17f0b49c3664cf0cf5e43a.jpg)
+    center/cover;
+  transform: translateZ(-1px) scale(2);
+  z-index: -1;
+}
