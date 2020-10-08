@@ -6,9 +6,12 @@
 
 --->
 
+I [Akanksha7-art] recommend [Beginner level Devlopment](https://www.w3schools.com/) and also few YouTube channels like(https://www.youtube.com/user/TechGuyWeb)
+
+
 I [Shreya](https://github.com/5hre9a) recommend [Beginner level Devlopment](https://www.w3schools.com/)
 
-I [Anuj Khadka](https://github.com/Anuj-Khadka) recommend Youtube channels like [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), [Codewithharry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) and Websites like [W3school](https://www.w3schools.com/), [Python](https://www.python.org/doc/) for documantation learning. 
+I [Anuj Khadka](https://github.com/Anuj-Khadka) recommend Youtube channels like [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), [Codewithharry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) and Websites like [W3school](https://www.w3schools.com/), [Python](https://www.python.org/doc/) for documantation learning.
 
 I [hemabhagnani](https://github.com/hemabhagnani) recommend [Flutter beginner Tutorial](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
@@ -23,7 +26,7 @@ I [Sneha](https:github.com/5hre9a) recommend to practice problems as much as you
  * [CodeForces](http://codeforces.com) - Russian website dedicated to competitive programming.
  * [ProjectEuler](http://projecteuler.net) - Solve computational and mathematical problems using your programming skills.
  * [LeetCode](https://leetcode.com) - Develop programming skills for your next interview.
- 
+
  I [Anjali Soni](https://github.com/anjalisoni3655) recommend [Sololearn](https://www.sololearn.com/). It's also supported in mobile phones. Really a nice platform to learn quickly by doing hands-on coding.
 
 
@@ -32,7 +35,7 @@ I [Prakash](https://github.com/prakash-sah-lab) recommend [Mr sir G](https://you
 
 I [shruthi](https://github.com/shruthi-kotawar) recommend [nptel]( https://nptel.ac.in/).
 
-I I [Sameera]( https://github.com/sameera-7) recommend you [Khan Academy](https://www.khanacademy.org/). 
+I I [Sameera]( https://github.com/sameera-7) recommend you [Khan Academy](https://www.khanacademy.org/).
 I [shruthi](https://github.com/shruthi-kotawar) recommend [nptel]( https://nptel.ac.in/)
 
 I [Niharika](https://github.com/niharikaponugoti) recommend [edwisely](https://www.edwisely.com/)
@@ -48,7 +51,7 @@ I[Anwar Ali](https://github.com/Anwarali) recommend [Free Code camp](https://www
 
 I[Bruno Almeida](https://github.com/Brunopbb) recommend [CBFCursos](https://www.youtube.com/user/canalfessorbruno)
 
-I[jyoti](https://github.com/jyoti88) recommend [Mr sir G](https://youtu.be/wdejN42iSEY) 
+I[jyoti](https://github.com/jyoti88) recommend [Mr sir G](https://youtu.be/wdejN42iSEY)
 [Khan Academy](https://www.khanacademy.org/).
 
 I [bhargavi](https://github.com/Bhargavirudravarapu) recommend [unschool](https://www.unschool.in).
@@ -68,5 +71,5 @@ I [Partha](https://github.com/parth93QA) would recommend going through a basic f
     [Colt Steele](https://www.youtube.com/c/ColtSteeleCode/playlists)
     [The New Boston](https://www.youtube.com/user/thenewboston)
   * Programming with Mosh, all you need is passion and determination. Check this youtube channel [Mosh](https://www.youtube.com/user/programmingwithmosh)
-  
+
 I [Gabrielle](https://github.com/GabbyJ) recommend learning the MERN stack (MongoDB, Express, React, Node) using [Angela Yu's The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) because she provides a lively interactive learning experience throughout the whole course. I also recommend Python basics using [Mike Dane on Youtube](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW) because he explains topics well while providing growing projects along the way. He covers many other topics as well on [his channel](https://www.youtube.com/c/GiraffeAcademy/).
