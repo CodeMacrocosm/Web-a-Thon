@@ -1,0 +1,25 @@
+body {
+    background: white;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10%;
+  }
+
+  ul{
+      font-size: 27;
+      color: navy;
+  }
+
+  ol{
+      font-size: 30;
+      color: black;
+  }
+
+ 
