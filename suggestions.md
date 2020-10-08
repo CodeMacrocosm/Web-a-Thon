@@ -43,3 +43,5 @@ I [MasterBrian99](https://github.com/MasterBrian99) suggests you No one is perfe
 I [Shubhani](https://github.com/Shubhani25) suggests you to start everything from basics and not worry at all. Practicing and doing everyhting on own will fill you with confidence and then your hardwork will pay. Don't ever feel low, everything will be by your side.
 
 I [VivianeRamos](https://github.com/vivi3008) suggests that you persist even when you think you will not succeed.
+
+I [CHiGi](https://github.com/imCHiGi) suggests you to always play with the code while learning and pick a project you like and try to enhance it everytime you learn a new concept.
