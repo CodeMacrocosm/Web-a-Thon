@@ -77,3 +77,5 @@ I [Gabrielle](https://github.com/GabbyJ) recommend learning the MERN stack (Mong
 I [Shubhani](https://github.com/Shubhani) recommend [coursera](https://www.coursera.org).
 
 I [Sneha](https://github.com/sneha-mehta) recommend [CodeChef](https://www.codechef.com/), [Coursera](https://www.coursera.org/), [Udemy](https://www.udemy.com/) and [Udacity](https://www.udacity.com/)
+
+I [Sneha](https://github.com/sneha-mehta) recommend [CodeChef](https://www.codechef.com/).
