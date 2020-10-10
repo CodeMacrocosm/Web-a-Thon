@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Todo List</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/todoList.css" />
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+</head>
+<body>
+  <div id="tasker" class="tasker">
+    <h2 class="header">JavaScript Todo List Demo</h2>
+    <div id="error" class="error">Please enter a task</div>
+    <div id="tasker-header" class="tasker-header">
+      <input type="text" id="input-task" placeholder="Enter a task">
+      <button id="add-task-btn"><i class="fa fa-fw fa-plus"></i>
+      </button>
+    </div>
+    <div class="tasker-body">
+      <ul id="tasks"></ul>
+    </div>
+  </div>
+  <script src="../scripts/todoList.js"></script>
+</body>
+</html>
