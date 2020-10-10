@@ -1,0 +1,43 @@
+html,body{
+    background:url('https://www.pixelstalk.net/wp-content/uploads/2016/10/Cartoons-Images.jpg');
+    display: flex;
+    flex:1;
+    align-items: center;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.clock{
+    height:20rem;
+    width:20rem;
+    padding:1rem;
+    position:relative ;
+    border:15px solid white;
+    border-radius:50%;
+    box-shadow: 0px 0px 30px cyan,inset 0px 0px 100px magenta ;
+    margin: auto ;
+}
+.clock-face{
+    height: 100%;
+    width: 100%;
+    transform: translateY(-3px);
+}
+
+.hand{
+    width:51%;
+    height:8px;
+    border-radius: 10px;
+    position: absolute;
+    background:linear-gradient(to left,black,black,white,black) ;
+    top:50%;
+    transform-origin: 100%;
+    transform: rotate(90deg);
+    transition-timing-function: cubic-bezier(0.8, 3, 0.58, 1);
+}
+.sec-hand{
+    height:4px;
+}
+.min-hand{
+    height:6px;
+}
