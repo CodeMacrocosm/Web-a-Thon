@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>City Search</title>
+        <link rel="stylesheet" href="stylesheet.css">
+    </head>
+    <body>
+        <form class="search-form">
+            <input type="text" class="search" placeholder="City or State">
+            <ul class="suggestions">
+              <li>Filter for a city</li>
+              <li>or a state</li>
+            </ul>
+          </form>
+
+        <script>
+            const endpoint='cities.json';
+            
+            const cities = [];
+            
+            fetch(endpoint)
+                .then(blob => blob.json())
+                .then(data => cities.push(...data));
+
+            function findMatches(citiesToMatch, cities)
+            {
+                return cities.filter(place => {
+                const regex = new RegExp(citiesToMatch, 'gi');       
+                return place.city.match(regex) || place.state.match(regex);
+                })                
+            }
+
+            function displayMatches(){
+                const matchArray = findMatches(this.value, cities);
+                const html = matchArray.map(place => {
+                return `
+                <li>
+                <span class="name">${place.city} , ${place.state}</span>
+                <span class="name">${place.id}</span>
+                </li>
+                `;
+            }).join('');
+            suggestions.innerHTML=html;
+            }
+
+            const searchInputs = document.querySelector('.search');
+            const suggestions = document.querySelector('.suggestions');
+
+            searchInputs.addEventListener('change', displayMatches);
+            searchInputs.addEventListener('keyup', displayMatches);
+        </script>
+    </body>
+</html>
