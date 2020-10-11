@@ -1,0 +1,39 @@
+
+body{
+	background: linear-gradient(to right, rgb(117, 87, 104), rgb(75, 150, 160));
+	padding:10%;
+	display: flex;	
+	flex-flow: row wrap;
+	height: 60vh;
+	width:70vw;
+	justify-content: space-around;
+}
+
+p {
+	text-align:justify;
+	color:lightgrey;
+	font-size: 1.3em;
+	border:1px dotted grey;
+	background-color: rgba(214, 255, 245, 0.1);
+	padding:10px;
+}
+
+.purple {
+	color:purple;
+	transform: skew(5deg, 2deg);
+	font-weight: bold;
+}
+
+#p3:hover {
+animation:move 0.7s 3;
+}
+
+@keyframes move{
+0% {transform:rotate(0);}
+10% {transform:rotate(10deg);}
+30% {ransform:rotate(0);}
+50% {transform:rotate(-10deg);}
+70% {transform:rotate(0);}
+90% {ransform:rotate(10deg);}
+100% {transform:rotate(0);}
+}
