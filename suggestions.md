@@ -23,11 +23,11 @@ I [Mousumi Das](https://github.com/MousumiDas625) suggest you to first go throug
 
 
 
-I [Prakash kumar](https://github.com/prakash-sah-lab) suggest you to don't think coding is hard . You start learning from zero level , firstly watch some video and know about language. 
+I [Prakash kumar](https://github.com/prakash-sah-lab) suggest you to don't think coding is hard . You start learning from zero level , firstly watch some video and know about language.
 
 I [Shruthi](https://gitHub.com/shruthi-kotawar) suggest you Never sit for long between programming. I always resolve real hard problems from taking a walk.
 
-I [Sameera](https://github.com/sameera-7) suggest you to  Use Version Control Software. 
+I [Sameera](https://github.com/sameera-7) suggest you to  Use Version Control Software.
 
 I [Niharika](https://gitHub.com/Niharikaponugoti) suggest you to Learn by doing. Always play with the code while learning.
 
@@ -45,3 +45,5 @@ I [Shubhani](https://github.com/Shubhani25) suggests you to start everything fro
 I [VivianeRamos](https://github.com/vivi3008) suggests that you persist even when you think you will not succeed.
 
 I [CHiGi](https://github.com/imCHiGi) suggests you to always play with the code while learning and pick a project you like and try to enhance it everytime you learn a new concept.
+
+I [Pahlevi](https://github.com/pahlevikun) suggests you to please always learn something new everyday.
