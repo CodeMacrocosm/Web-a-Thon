@@ -73,3 +73,5 @@ I [Gabrielle](https://github.com/GabbyJ) recommend learning the MERN stack (Mong
 I [Shubhani](https://github.com/Shubhani) recommend [coursera](https://www.coursera.org).
 
 I Akanksha7 recommend YouTube channel [techguyweb](https://www.youtube.com/user/TechGuyWeb)
+
+I [zomsik](https://github.com/zomsik) recommend [automatetheboringstuff](https://automatetheboringstuff.com)
