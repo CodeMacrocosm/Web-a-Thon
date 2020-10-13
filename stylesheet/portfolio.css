@@ -1,0 +1,145 @@
+.home_body {
+    height: 100vh;
+    display: flex;
+
+}
+.home_resume {
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+}
+.home_resume .wrapper_img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background: white;
+    border: 3px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    position: relative;
+    box-shadow: 0px 2px 120px 0px rgba(0, 0, 0, 0.64);
+    transition: all 0.4s ease-in;
+}
+.home_resume .wrapper_img .btn_wa {
+    width: 100%;
+    height: 100%;
+    display: block;
+    z-index: 1;
+    position: absolute;
+    cursor: pointer;
+}
+.home_resume .wrapper_img .icon-wa {
+    position: absolute;
+    color: white;
+    font-size: 0;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    transition: all 0.4s ease-in;
+}
+.home_resume .wrapper_img img {
+    border-radius: 50%;
+    height: 100%;
+    transition: all 0.4s;
+}
+.home_resume .wrapper_img:after {
+    content: "";
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background: red;
+    border: 1px solid white;
+    box-shadow: 0px 2px 120px 0px rgba(0, 0, 0, 0.64);
+    border-radius: 50%;
+    bottom: 0px;
+    right: 30px;
+    animation: signal 2s infinite;
+    cursor: pointer;
+    transition: all 0.4s ease-in;
+}
+.home_resume .wrapper_img:hover {
+    overflow: hidden;
+    box-shadow: 0px 2px 170px 20px rgba(0, 0, 0, 0.64);
+    border-color: #f1f3f8;
+}
+.home_resume .wrapper_img:hover img {
+    transform: scale(0.99);
+}
+.home_resume .wrapper_img:hover .btn_wa {
+    background: rgba(0, 0, 0, .3);
+}
+.home_resume .wrapper_img:hover .icon-wa {
+    font-size: 40px;
+    z-index: 2;
+}
+.home_resume .wrapper_img:hover:after {
+    display: none;
+}
+
+.social_links {
+    text-align: center;
+}
+.social_links a {
+    padding: 10px;
+    font-size: 20px;
+    color: #000;
+}
+.social_links a i {
+    transition: transform 0.5s ease-in;
+}
+.social_links a:hover i {
+    transform: rotate(360deg);
+}
+
+.home_resume .social_links a {
+    border-top: 1px solid;
+}
+.home_info {
+    margin-bottom: 20px;
+}
+.name {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid #7e2ea0;
+    animation: typing 5s steps(23, end), cursor 1.5s steps(12, end) infinite;
+}
+@keyframes typing {
+    from {
+        width: 0;
+   }
+}
+@keyframes cursor {
+    50% {
+        border-color: transparent;
+   }
+}
+.job {
+    overflow: hidden;
+    animation: shows 5s;
+}
+@keyframes shows {
+    from {
+        transform: scale(0);
+   }
+    to {
+        transform: scale(1);
+   }
+}
+@keyframes signal {
+    from {
+        background: white;
+   }
+    to {
+        background: red;
+   }
+}
+@media (max-width: 768px) {
+    .name {
+        font-size: 30px;
+   }
+    .job {
+        font-size: 20px;
+   }
+}
