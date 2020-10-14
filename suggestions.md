@@ -27,6 +27,8 @@ I [Prakash kumar](https://github.com/prakash-sah-lab) suggest you to don't think
 
 I [Shruthi](https://gitHub.com/shruthi-kotawar) suggest you Never sit for long between programming. I always resolve real hard problems from taking a walk.
 
+I [RonitDutta](https://github.com/RD91) suggest you to you that for learning anything you don't need to pay for it you can get it on You Tube ![YouTube](https://cdn.emojidex.com/emoji/seal/YouTube.png "YouTube") the best place to learn.
+
 I [Sameera](https://github.com/sameera-7) suggest you to  Use Version Control Software.
 
 I [Niharika](https://gitHub.com/Niharikaponugoti) suggest you to Learn by doing. Always play with the code while learning.
