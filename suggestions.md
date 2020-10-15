@@ -45,3 +45,5 @@ I [Shubhani](https://github.com/Shubhani25) suggests you to start everything fro
 I [VivianeRamos](https://github.com/vivi3008) suggests that you persist even when you think you will not succeed.
 
 I [CHiGi](https://github.com/imCHiGi) suggests you to always play with the code while learning and pick a project you like and try to enhance it everytime you learn a new concept.
+
+I [Sneha](https://github.com/sneha-mehta) suggests that patienceis the key. You might want to to quit a lot of times but believe in your dream can don't give up. Trust me it worsts the time time and hardwork.

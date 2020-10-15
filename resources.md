@@ -75,3 +75,6 @@ I [Partha](https://github.com/parth93QA) would recommend going through a basic f
 I [Gabrielle](https://github.com/GabbyJ) recommend learning the MERN stack (MongoDB, Express, React, Node) using [Angela Yu's The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) because she provides a lively interactive learning experience throughout the whole course. I also recommend Python basics using [Mike Dane on Youtube](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW) because he explains topics well while providing growing projects along the way. He covers many other topics as well on [his channel](https://www.youtube.com/c/GiraffeAcademy/).
 
 I [Shubhani](https://github.com/Shubhani) recommend [coursera](https://www.coursera.org).
+
+I [Sneha](https://github.com/sneha-mehta) recommend youtube, [coursera](https://www.coursera.org), [Udacity](https://www.udacity.com/),
+[Udemy](https://www.udemy.com/)
