@@ -1,0 +1,81 @@
+.grp1{
+    font-family: Roboto;
+    font-size: 92px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 108px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+/* Line 1 
+
+.line{
+    position: absolute;
+    width: 516.02px;
+    height: 0px;
+    text-align: center;
+    top: 116px;
+    border: 1px solid #000000;
+}
+*/
+
+/* topnav */
+
+.navtop{
+    position: absolute;
+    width: 303px;
+    height: 21px;
+    left: 105px;
+    top: 164px;
+}
+.header{
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+/* Profile nav */
+
+body {
+    background-image: linear-gradient(rgb(231, 231, 231), rgb(110, 110, 110));
+}
+.grp2{
+    position: absolute;
+    width: 120.21px;
+    height: 34px;
+    left: 1207px;
+    top: 164px;    
+}
+
+.quote{
+    text-align: center;
+
+}
+.writer{
+    text-align: center;
+}
+
+.container{
+    display: block;
+    margin-left: 120px;
+    margin-right:120px;
+    
+}
+
+.base{
+    position: absolute;
+    width: 820px;
+    height: 42px;
+    left: 310px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+
+.icon{
+    width: 24px;
+    height: 24px;
+
+}
