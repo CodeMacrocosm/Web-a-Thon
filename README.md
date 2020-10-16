@@ -1,5 +1,5 @@
 
-
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!
 <h1 align="center"> Hacktoberfest 2020 🎉</h1>
 
 <div align="center">
