@@ -75,3 +75,5 @@ I [Shubhani](https://github.com/Shubhani) recommend [coursera](https://www.cours
 I Akanksha7 recommend YouTube channel [techguyweb](https://www.youtube.com/user/TechGuyWeb)
 
 I [zomsik](https://github.com/zomsik) recommend [automatetheboringstuff](https://automatetheboringstuff.com)
+
+I [Kashyap](https://github.com/coderninjakashyap) recommend you [Coding Omega](https://www.youtube.com/c/codingomega) YouTube Channel for learning Web Design.
