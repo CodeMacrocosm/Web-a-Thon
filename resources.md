@@ -85,4 +85,10 @@ I [Anushree](https://github.com/Anushree176) would like to recommend :
  * [GeeksForGeeks](https://www.geeksforgeeks.org/) for programming as well as theory.
  * [Codecademy](https://www.codecademy.com/) for learning languages (Hands-on) in various domains.
  * [DataCamp](https://www.datacamp.com/) and [Coursera](https://www.coursera.org/search?query=data%20science&) for Data Science beginners.
+ 
+ I [Sanyam](https://github.com/sanyammm) would like to recommend :
+ * [Apni Kaksha](https://www.youtube.com/channel/UCF7BExjT2zH_mmyqOB139Dg) for programming ,theory and a lot of practical knowledge.
+ * [Frontend Mentor](https://www.frontendmentor.io/challenges) for learning frontend development.
+ * [Avocoder](https://www.theavocoder.com/complete-javascript) for JavaScript beginners.
+ * [Progate](https://progate.com) for beginners in coding.
 
