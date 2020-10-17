@@ -49,3 +49,4 @@ I [VivianeRamos](https://github.com/vivi3008) suggests that you persist even whe
 I [CHiGi](https://github.com/imCHiGi) suggests you to always play with the code while learning and pick a project you like and try to enhance it everytime you learn a new concept.
 
 I [Pahlevi](https://github.com/pahlevikun) suggests you to please always learn something new everyday.
+I [Harpreet Madaan] (https://github.com/harpreet199) I would like to suggest for beginner that first of all understand your interest of field like Development, Data Science. and so many others. Then just focus on one field and master in that field whilemoving towards other technology. 
