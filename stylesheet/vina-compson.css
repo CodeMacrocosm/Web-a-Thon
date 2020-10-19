@@ -1,0 +1,26 @@
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+
+}
+.h1{
+    font-size: 24px;
+    color: #a1a1a1;
+}
+
+.content {
+    padding: 80px;
+    border: 1px solid #eee;
+}
+
+.test-grid-layout {
+    columns: 340px;
+    column-gap: 30px;
+}
+
+.test-link {
+    padding: 20px;
+    background: #e4e4e4;
+    border-radius: 5px;
+    break-inside: avoid-column;
+    margin-bottom: 30px;
+}
