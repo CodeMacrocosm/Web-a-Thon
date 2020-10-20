@@ -50,3 +50,6 @@ I [CHiGi](https://github.com/imCHiGi) suggests you to always play with the code 
 
 I [Pahlevi](https://github.com/pahlevikun) suggests you to please always learn something new everyday.
 I [Harpreet Madaan] (https://github.com/harpreet199) I would like to suggest for beginner that first of all understand your interest of field like Development, Data Science. and so many others. Then just focus on one field and master in that field whilemoving towards other technology. 
+
+I [Prateek](https://github.com/Ocoderdude) suggest you to not memorizing the solutions to the competetive problems, instead understand the logic or the pattern used in the problem. Try to make your code optimised always with good space and time complexity.
+
