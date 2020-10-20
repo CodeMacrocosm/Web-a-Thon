@@ -92,3 +92,12 @@ I [Anushree](https://github.com/Anushree176) would like to recommend :
  * [Avocoder](https://www.theavocoder.com/complete-javascript) for JavaScript beginners.
  * [Progate](https://progate.com) for beginners in coding.
 
+I [Prateek](https://github.com/Ocoderdude/) recommend you following Youtube Channels:
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
+* [The New Boston](https://www.youtube.com/user/thenewboston)
+* [Derek Banas](https://www.youtube.com/user/derekbanas)
+* [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+
