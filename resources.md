@@ -80,7 +80,7 @@ I [zomsik](https://github.com/zomsik) recommend [automatetheboringstuff](https:/
 I [Kashyap](https://github.com/coderninjakashyap) recommend you [Coding Omega](https://www.youtube.com/c/codingomega) YouTube Channel for learning Web Design.
 
 I [ilham](https://github.com/sadopsa) recommend [w33schools](https://www.w3schools.com/)
-
+I [sunil](https://github.com/noob3426) recommend [codeforces](https://codeforces.com/)
 I [Anushree](https://github.com/Anushree176) would like to recommend :
  * [GeeksForGeeks](https://www.geeksforgeeks.org/) for programming as well as theory.
  * [Codecademy](https://www.codecademy.com/) for learning languages (Hands-on) in various domains.
