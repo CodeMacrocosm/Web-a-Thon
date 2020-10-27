@@ -1,0 +1,88 @@
+body {
+  -webkit-transition: 0.3 ease all;
+  transition: 0.3 ease all;
+}
+
+.dark {
+  background-color: #000;
+  color: #f7f7fa;
+  background-repeat: no-repeat;
+}
+.dark-mode {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  z-index: 1;
+}
+
+.switch {
+  background-color: #343d5b;
+  border-radius: 25px;
+  border: none;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  outline: none;
+}
+
+.switch span {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background: none;
+}
+
+.dark-mode {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  z-index: 1;
+}
+
+.switch {
+  background-color: #343d5b;
+  border-radius: 25px;
+  border: none;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  outline: none;
+}
+
+.switch::after {
+  content: '';
+  display: block;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  background-color: #f7f7fa;
+  top: 0;
+  left: 0;
+  right: unset;
+  border-radius: 25px;
+  transition: 0.3s ease all;
+  box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.6);
+}
+
+.dark .switch {
+  background-color: orange;
+}
+
+.switch.active::after {
+  right: 0;
+  left: unset;
+}
