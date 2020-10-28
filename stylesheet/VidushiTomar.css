@@ -1,4 +1,11 @@
-.h1{
+h1{
     text-align: center;
-    padding: 200px;
+    margin-top: 200px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 200px;
+}
+head{
+    background-image: url("../Images/VidushiTomarHacktoberfest1.jpg");
 }
