@@ -101,3 +101,7 @@ I [Prateek](https://github.com/Ocoderdude/) recommend you following Youtube Chan
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 
+I [Aastha Bansal](https://github.com/aastha271100) would like to recommend :
+ * [Leetcode](https://www.leetcode.com) for coding practice
+ * [FreeCodecamp](https://www.freecodecamp.org/learn) for learning web development.
+ * [Coursera](https://coursera.org) for learning any new skill.
