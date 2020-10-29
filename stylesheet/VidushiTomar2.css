@@ -1,0 +1,44 @@
+
+body{
+    background-color: whitesmoke;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline palevioletred;
+}
+p{
+    padding: 10px;
+    font-size: 18px;
+}
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: palevioletred;
+  }
+  .oval {
+    height: 50px;
+    width: 100px;
+    background-color:  palevioletred;
+    border-radius: 50%;
+  }
+  .trapezoid {
+	border-bottom: 50px solid palevioletred;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 125px;
+}
+.triangle-left {
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-right: 50px solid palevioletred;
+	border-bottom: 25px solid transparent;
+}
+.parallelogram {
+	width: 100px;
+	height: 50px;
+	transform: skew(20deg);
+	background:  palevioletred;
+}
