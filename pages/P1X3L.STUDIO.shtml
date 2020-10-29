@@ -1,0 +1,53 @@
+<html>
+<head>
+    <title>P1X3L STUDIO</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 600;
+            line-height: 2em;
+            font-size: 16px;
+            letter-spacing: 3px;
+            background-color: #111111;
+            color: #FFFFFF;
+        }
+
+        #container {
+            width:  100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            flex-direction: column;
+        }
+
+        .logo {
+            max-width: 200px;
+        }
+
+        a, a:visited {
+            color: #50d8fa;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #8ae8ff;
+        }
+
+
+
+    </style>
+</head>
+<body>
+    <div id="container">
+        <img class="logo" src="https://p1x3l.studio/wp-content/uploads/2020/02/pixelstudio_logo_cube_blue_retina.png" />
+        <div class="child">
+            <p>Visit P1X3L STUDIO here:<br /> <a href="https://P1X3L.STUDIO" target="_blank">https://P1X3L.STUDIO</a></p>
+        </div>
+    </div>
+</body>
+
+</html>
