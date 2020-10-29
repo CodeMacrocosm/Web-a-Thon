@@ -1,0 +1,31 @@
+h1{
+    margin-left: 320px;
+    margin-top: 100px;
+    text-decoration: underline rgb(55, 141, 180);
+}
+h2{
+    margin-left: 300px;
+    text-decoration: underline rgb(55, 141, 180);
+    margin-bottom: 50px;
+}
+h2 a{
+    margin-left: 70px;
+}
+body{
+    background-image: url("https://cdn.hipwallpaper.com/i/91/35/GM9sS3.jpg");
+}
+.para{
+   
+    background-color: whitesmoke;
+}
+p{
+font-style: normal;
+font-size: 20px;
+    padding: 10px;
+}
+ul{
+    margin-top: -70px;
+}
+li{
+    font-size: 20px;
+}
