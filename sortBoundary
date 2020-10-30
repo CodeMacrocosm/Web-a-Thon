@@ -1,0 +1,108 @@
+/*Sample Input: 1 2 3
+                2 3 5
+                3 5 7
+O/P: 1 2 3
+     2   5
+     3 5 7
+Sorted Boundary:
+1 2 2
+7   3
+5 5 3
+*/
+import java.util.*;
+class sortBoundary
+{
+   public static void main()
+   {
+       Scanner in=new Scanner(System.in);
+       int N,i,j,k=0,temp,size;
+       System.out.println("Enter array size:");
+       N=in.nextInt();
+       int a[][]=new int[N][N];
+       size=4*N-4;
+       int b[]=new int[size];
+       System.out.println("Enter "+N*N+" values:");
+       for(i=0;i<N;i++)
+       {
+           for(j=0;j<N;j++)
+           {
+               a[i][j]=in.nextInt();
+            }
+        }
+       for(i=0;i<N;i++)
+       {
+           for(j=0;j<N;j++)
+           {
+               System.out.print(a[i][j]+"\t");
+            }
+            System.out.println();
+        }
+         System.out.println("Boundary Elements:");
+        for(i=0;i<N;i++)
+        {
+            for(j=0;j<N;j++)
+            {
+                if(i==0||j==0||i==N-1||j==N-1)
+                {
+                    System.out.print(a[i][j]+"\t");
+                    b[k]=a[i][j];
+                    k++;
+                }
+                else
+                {
+                 System.out.print("\t");
+                }
+            }
+             System.out.println();
+            }
+        for(i=0;i<size;i++)
+        {
+           for(j=0;j<size-1-i;j++)
+           {
+              if(b[j]>b[j+1])
+              {
+                  temp=b[j];
+                  b[j]=b[j+1];
+                  b[j+1]=temp;
+                }
+            }
+        }
+        k=0;
+        for(j=0;j<N;j++)
+        {
+          a[0][j]=b[k];
+          k++;
+        }
+        for(i=1;i<N;i++)
+        {
+          a[i][N-1]=b[k];
+          k++;
+        }
+        for(j=N-2;j>=0;j--)
+        {
+          a[N-1][j]=b[k];
+          k++;
+        }
+        for(i=N-2;i>0;i--)
+        {
+          a[i][0]=b[k];
+          k++;
+        }
+        System.out.println("Sorted Boundary:");
+        for(i=0;i<N;i++)
+        {
+           for(j=0;j<N;j++)
+           {
+               if(i==0||j==0||i==N-1||j==N-1)
+                {
+                    System.out.print(a[i][j]+"\t");
+                }
+                else
+                {
+                 System.out.print("\t");
+                }
+            }
+            System.out.println();
+        }
+    }
+}
