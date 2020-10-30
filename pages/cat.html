@@ -1,0 +1,169 @@
+<div id="eyes">
+  <div class="eye" id="left_eye">
+    <div class="lid"></div>
+    <div class="pupil"></div>
+  </div>
+  <div class="eye" id="right_eye">
+    <div class="lid"></div>
+    <div class="pupil"></div>
+  </div>
+</div>
+<div id="mouth">
+  <div class="tooth" id="left_tooth"></div>
+  <div class="tooth" id="right_tooth"></div>
+</div>
+
+<style>
+  body {
+    background-color: #100d25;
+  }
+  div#eyes {
+    margin: 50px auto;
+    width: 520px;
+    height: 100px;
+  }
+  div.eye {
+    background-color: #0c493e;
+    border: 4px solid black;
+    width: 200px;
+    height: 180px;
+    border-radius: 40% 120% 5% 120%;
+    position: relative;
+    overflow: hidden;
+    float: left;
+  }
+  div#right_eye {
+    transform: rotateY(180deg);
+    margin-left: 100px;
+  }
+  div.eye:after {
+    content: '';
+    position: absolute;
+    background-color: #20bda0;
+    bottom: 0;
+    left: 15px;
+    width: 185px;
+    height: 120px;
+    border-radius: 27% 100% 0% 100%;
+    border-top: 5px solid rgba(43, 255, 216, 0.8);
+  }
+  div.eye:before {
+    content: '';
+    z-index: 3;
+    position: absolute;
+    bottom: 0;
+    left: 15px;
+    width: 185px;
+    height: 120px;
+    border-radius: 27% 100% 0% 100%;
+    border-top: 5px solid rgba(43, 255, 216, 0.3);
+  }
+  div.lid {
+    background-color: #28215d;
+    z-index: 10;
+    position: absolute;
+    width: 200px;
+    height: 180px;
+    border-radius: 40% 120% 0% 120%;
+    animation-name: blink;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: none;
+  }
+  @keyframes blink {
+    0% {
+      background-color: #28215d;
+    }
+    10% {
+      background-color: transparent;
+    }
+    100% {
+      background-color: transparent;
+    }
+  }
+  div.pupil {
+    z-index: 2;
+    margin-left: 120px;
+    margin-top: 25px;
+    width: 30px;
+    height: 155px;
+    background: black;
+    border-radius: 100%;
+    position: relative;
+  }
+  div.pupil:after {
+    content: '';
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    top: 12px;
+    left: -5px;
+    background: #ffffff;
+    background: radial-gradient(
+      center,
+      ellipse cover,
+      #ffffff 0%,
+      #ffffff 42%,
+      transparent 93%,
+      transparent 100%
+    );
+  }
+  #right_eye div.pupil:after {
+    content: '';
+    left: 20px;
+    top: 25px;
+  }
+  div#mouth {
+    width: 800px;
+    z-index: -10;
+    top: -100px;
+    border: 4px solid black;
+    border-top: none;
+    height: 350px;
+    margin: -100px auto;
+    background: white;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+  }
+  div#mouth:after {
+    content: '';
+    width: 700px;
+    height: 300px;
+    margin: auto;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #100d25;
+    border-top: none;
+    top: -100px;
+    left: 50px;
+  }
+  div#mouth:before {
+    content: '';
+    width: 800px;
+    height: 350px;
+    border-bottom: 3px solid black;
+    position: absolute;
+    top: -100px;
+    border-radius: 50%;
+  }
+  div.tooth {
+    content: '';
+    width: 30px;
+    height: 30px;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    position: absolute;
+    top: 178px;
+    background: white;
+    left: 90px;
+    transform: rotate(-20deg);
+  }
+  #right_tooth {
+    left: 670px;
+    transform: rotate(-69deg);
+    top: 182px;
+  }
+</style>
