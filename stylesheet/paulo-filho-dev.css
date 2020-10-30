@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(90deg,#141b20,#020407);
+    color:#fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+.container{
+    max-width: 500px;
+    margin: 150px auto 0;
+}
+.container h1{
+    font-weight: bold;
+}
+#logo{
+    fill:#fff;
+    max-width: 250px;
+    margin: 50px 0 0;
+}
