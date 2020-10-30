@@ -101,7 +101,19 @@ I [Prateek](https://github.com/Ocoderdude/) recommend you following Youtube Chan
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 
-I [Aastha Bansal](https://github.com/aastha271100) would like to recommend :
+I [Aastha Bansal](https://github.com/aastha271100) would like to recommend:
  * [Leetcode](https://www.leetcode.com) for coding practice
  * [FreeCodecamp](https://www.freecodecamp.org/learn) for learning web development.
  * [Coursera](https://coursera.org) for learning any new skill.
+
+
+I [Katrina Yates](https://github.com/DekyDesigns) would like to recommend utilizing Udemy. They have some amazing teachers and you can build your portfolio just by completely the course. Here are my two favorite instructors:
+ * [Andrei Neagoie](https://www.udemy.com/user/andrei-neagoie/) 
+ * [Colt Steele](https://www.udemy.com/user/coltsteele/)
+I also recommend:
+ * [Free Code Camp](https://www.freecodecamp.org/learn) to help with more details.
+ * [Code Pen](https://codepen.io/) to find snipets of code. I like to find snippets, then alter the code to fit my need. It is extremely handy.
+ * [Coursera](https://www.freecodecamp.org/learn) to help with more details that the courses might have missed.
+ * [w3schools](https://www.w3schools.com/) for pretty much any refreshing you need to do.
+ * [Stack Overflow](https://stackoverflow.com/) Almost any question you have about your code can be solved with this site.
+
