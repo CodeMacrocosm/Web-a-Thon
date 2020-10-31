@@ -117,3 +117,8 @@ I also recommend:
  * [w3schools](https://www.w3schools.com/) for pretty much any refreshing you need to do.
  * [Stack Overflow](https://stackoverflow.com/) Almost any question you have about your code can be solved with this site.
 
+I [Romil Jain](https://github.com/romilj012) would like to recommend:
+ * Codechef
+ * BootCamp
+ * Coursera
+ * Udemy
