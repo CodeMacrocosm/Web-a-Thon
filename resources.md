@@ -122,3 +122,8 @@ I [Romil Jain](https://github.com/romilj012) would like to recommend:
  * BootCamp
  * Coursera
  * Udemy
+
+I [Prachi Vaishnav](https://github.com/vaishnavprachi98) would like to recommend:
+ * Leetcode and Hackerrank for coding practice
+ * Coursera and Udemy for learning skills from scratch
+ * StackOverflow community for doubt clearance
