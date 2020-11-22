@@ -127,3 +127,5 @@ I [Prachi Vaishnav](https://github.com/vaishnavprachi98) would like to recommend
  * Leetcode and Hackerrank for coding practice
  * Coursera and Udemy for learning skills from scratch
  * StackOverflow community for doubt clearance
+
+I [Areen](https://github.com/Areen161) would like to recommend [Sololearn](https://www.sololearn.com/)
