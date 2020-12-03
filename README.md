@@ -1,10 +1,13 @@
 
 
-<h1 align="center"> Hacktoberfest 2020 🎉</h1>
+<h1 align="center">  WEBATHON'20 🎉</h1>
 
 <div align="center">
 <img src="https://img.shields.io/badge/hacktoberfest-2020-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  
+# A competitive contest to Design and Create websites!
+We heard you want to be a web developer.Well now seems to be great time to get started.  
 
 
 # Let's contribute in as simplest way as possible.
@@ -25,14 +28,14 @@ Now, clone the forked repository to your machine. Go to your GitHub account, ope
 After that, let's bring the cloned repository to your local machine.  
 `git clone <url-you-just-copied>`  
 For example:  
-` git clone https://github.com/CodeMacrocosm/HactoberFest2020.git`
+` git clone https://github.com/CodeMacrocosm/Webathon'20.git`
 
 ---
 
 ## 3. Move inside the repository:
 
 Since you want to change the files inside, first let's move to the folder correctly. Use the following command on terminal:  
-`cd HacktoberFest2020`
+`cd Webathon'20`
 
 ---
 
@@ -84,6 +87,6 @@ There seems to be a lot of hype. Contributing to Open Source can be a highly sat
 How will this work:  
 You get your PR's done and contribute to a cool repository by sharing your stories and struggles and helping others in their journey.
 
-Happy Coding. Hope you all get your cool swags :)
+Happy Coding. Hope you all give your best :)
 
 
