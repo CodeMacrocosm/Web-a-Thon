@@ -1,83 +1,101 @@
+# 🎉 WEBATHON'20 Contest 🚀
+
+🌟 Get Ready for the Ultimate Web Development Showdown! 🌟
 
 
-<h1 align="center">  WEBATHON'20 🎉</h1>
+- 🏆[![Contributors](https://img.shields.io/badge/Contributors-119-brightgreen.svg)]()
 
-<div align="center">
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+- 🏁[![Forks](https://img.shields.io/badge/Forks-127-blue.svg)]()
   
-# A competitive contest to Design and Create websites!
-We heard you want to be a web developer.Well now seems to be great time to get started.  
+- ⭐[![Stars](https://img.shields.io/badge/Stars-37-yellow.svg)]()
 
 
-# Let's contribute in as simplest way as possible.
+Welcome to WEBATHON'20, where coding prowess meets creativity in a high-voltage web development contest! 💥
 
-Let's make a simple contribution to this repository.
+Are you prepared to embark on an exhilarating journey, showcasing your web development skills like never before? Hold on tight because this is not just any contest; it's the super-duper, mega-exciting, and professionally crafted challenge you've been waiting for! 🚀
 
-Let me show you how easy it is:
+## Why WEBATHON'20?
 
-## 1. Fork this repository:
+WEBATHON'20 is not your ordinary contest. It's an extraordinary opportunity to push your web development boundaries and shine in the digital universe. Here's why you shouldn't miss this:
 
-Fork this repository by clicking on the fork button on the top of this page which will create a copy of this repository in your account.
+🌐 **Collaborative Creation:** Join hands with fellow developers to build something extraordinary together. It's all about collaboration, innovation, and teamwork.
 
----
+🌟 **Star It, Fork It:** Before you dive into the action, star ⭐ this repository to show your support for the contest. And don't forget to fork 🍴 it to make it your playground!
 
-## 2. Clone the repository:
+🏆 **Competition at Its Best:** WEBATHON'20 is designed for web developers of all levels. Whether you're a seasoned coder or just starting your journey, there's a challenge waiting for you.
 
-Now, clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the _copy to clipboard_ icon.  
-After that, let's bring the cloned repository to your local machine.  
-`git clone <url-you-just-copied>`  
-For example:  
-` git clone https://github.com/CodeMacrocosm/Webathon'20.git`
+💡 **Learn and Grow:** Beyond the competition, this contest is a fantastic learning opportunity. Share your experiences, learn from others, and boost your skills.
 
----
+## How to Get Started
 
-## 3. Move inside the repository:
+Let's make this contest journey as smooth as possible for you:
 
-Since you want to change the files inside, first let's move to the folder correctly. Use the following command on terminal:  
-`cd Webathon'20`
+1. **Fork This Repository:** Click the "Fork" button at the top of this page to create your personal copy of the repository. It's your canvas for creativity.
 
----
+2. **Clone the Repository:** Now, clone your forked repository to your local machine. Simply copy the repository's URL and use the `git clone` command. For example:
 
-## 4. Make a new branch:
+   ```shell
+   git clone https://github.com/YourUsername/Webathon'20.git
+   ```
 
-So, you're about to make your personal changes to the project, it's always a better idea to make a new branch. Run the following command:
+3. **Move Inside the Repository:** Open your terminal and navigate to the repository folder:
 
-`git checkout -b <feat-add-yourname>`  
-For example:  
-`git checkout -b feat-add-5hre9a`
+   ```shell
+   cd Webathon'20
+   ```
 
----
+4. **Create a New Branch:** It's time to make your mark. Create a new branch using this command:
 
-## 5. Make the required changes
+   ```shell
+   git checkout -b feat-add-yourname
+   ```
 
-Check out the [CONTRIBUTE.md](/contribute.md) file to see what all contributions can you make.
+   For instance:
 
----
+   ```shell
+   git checkout -b feat-add-5hre9a
+   ```
 
-## 6. Commit all your changes
+5. **Bring Your Vision to Life:** Explore the CONTRIBUTE.md file to discover various ways you can contribute to this web development extravaganza.
 
-It's the time when you commit your changes and leave a beautiful commit message behind. You can run the following commands:
+6. **Commit Your Masterpiece:** Once you've poured your creativity into your work, commit your changes with a meaningful message:
 
-`git add .`  
-`git commit -m "<Your Message>"`  
-For example:  
-`git commit -m "Added 5hre9a's Story"`
+   ```shell
+   git add .
+   git commit -m "Your Message"
+   ```
 
-Lastly, push your changes to Github:  
-To do so run the following command:
+   For example:
 
-`git push origin <your-branch-name>`  
-For example:  
-`git push origin feat-add-5hre9a`
+   ```shell
+   git commit -m "Added 5hre9a's Story"
+   ```
 
----
+   Finally, share your brilliance with the world:
 
-## 7. Make a pull request:
+   ```shell
+   git push origin your-branch-name
+   ```
 
-If you go to your repository on GitHub, you'll see a Compare & Pull Request button. Click on the button.
-Now submit the pull request. Leave a custom message if you want.
+   Like this:
 
----
+   ```shell
+   git push origin feat-add-5hre9a
+   ```
+
+7. **Create a Pull Request:** Visit your GitHub repository and click the "Compare & Pull Request" button. Submit your pull request, and feel free to add a personal message.
+
+## Star This Repository
+
+Show your love and support for WEBATHON'20 by starring ⭐ this repository. Let's make it shine bright!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+WEBATHON'20 is not just a contest; it's your chance to shine, learn, and make a mark in the world of web development. Join us in this extraordinary journey and let your creativity soar! 🏆🌐🚀
+
+**Happy Coding!** 💻🎉
 
 # Motivation
 
