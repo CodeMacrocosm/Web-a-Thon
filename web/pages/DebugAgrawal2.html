@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="stylesheet.css">
+        <title>Clock</title>
+    </head>
+    <body>
+        <div class="clock">
+            <div class="clock-face">
+            <div class="hand hour-hand"></div>
+            <div class="hand min-hand"></div>
+            <div class="hand sec-hand"></div>
+            </div>
+        </div>
+
+        <script>
+            const secondHand=document.querySelector('.sec-hand');
+            const minuteHand=document.querySelector('.min-hand');
+            const hourHand=document.querySelector('.hour-hand');
+            const audio=new Audio('Clock.mp3');
+            function setDate()
+            {
+                audio.currentTime=0;
+                audio.play();  
+                
+                const now=new Date();
+
+                const seconds=now.getSeconds();
+                const secondsToDegrees=((seconds/60)*360)+90;
+                secondHand.style.transform=`rotate(${secondsToDegrees}deg)`;
+
+                const minutes=now.getMinutes();
+                const minutesToDegrees=((minutes/60)*360)+90;
+                minuteHand.style.transform=`rotate(${minutesToDegrees}deg)`;
+
+                const hours=now.getHours();
+                const hoursToDegrees=((hours/60)*360)-90;
+                hourHand.style.transform=`rotate(${hoursToDegrees}deg)`;
+            }
+            setInterval(setDate ,1000);
+        </script>
+    </body>
+</html>
