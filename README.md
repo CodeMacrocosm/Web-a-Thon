@@ -92,7 +92,7 @@ In this contest, our experienced contributors offer valuable resources to beginn
 
 | GitHub Profile                                     | Resources                                                                                                                                                                           |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Anuj-Khadka](https://github.com/Anuj-Khadka)     | [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), [Codewithharry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww), [W3school](https://www.w3schools.com/), [Python](https://www.python.org/doc/). |
+| [Anuj-Khadka](https://github.com/Anuj-Khadka)     | [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), [Codewithharry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww),  |
 | [hemabhagnani](https://github.com/hemabhagnani) | [Flutter beginner Tutorial](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ).                                                                   |
 | [anjalisoni3655](https://github.com/anjalisoni3655) | [Sololearn](https://www.sololearn.com/).                                                                                                                                          |
 | [prakash-sah-lab](https://github.com/prakash-sah-lab) | [Mr sir G](https://youtu.be/wdejN42iSEY).                                                                                                                                     |
@@ -116,20 +116,12 @@ In this contest, our experienced contributors offer valuable resources to beginn
 | [coderninjakashyap](https://github.com/coderninjakashyap) | [Coding Omega](https://www.youtube.com/c/codingomega)                                                                                   |
 | [sadopsa](https://github.com/sadopsa)             | [w33schools](https://www.w3schools.com/).                                                                                                                                       |
 | [noob3426](https://github.com/noob3426)           | [codeforces](https://codeforces.com/).                                                                                                                                         |
-| [Anushree176](https://github.com/Anushree176)     | [GeeksForGeeks](https://www.geeksforgeeks.org/), [Codecademy](https://www.codecademy.com/), [DataCamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/search?query=data%20science&).                                                 |
-| [sanyammm](https://github.com/sanyammm)           | [Apni Kaksha](https://www.youtube.com/channel/UCF7BExjT2zH_mmyqOB139Dg), [Frontend Mentor](https://www.frontendmentor.io/challenges), [Avocoder](https://www.theavocoder.com/complete-javascript), [Progate](https://progate.com).               |
-| [Ocoderdude](https://github.com/Ocoderdude/)      | YouTube Channels: [Traversy Media](https://www.youtube.com/user/TechGuyWeb), [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ), [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg), [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers), [The New Boston](https://www.youtube.com/user/thenewboston), [Derek Banas](https://www.youtube.com/user/derekbanas), [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w). |
+| [Anushree176](https://github.com/Anushree176)     | [GeeksForGeeks](https://www.geeksforgeeks.org/), [Codecademy](https://www.codecademy.com/),                                                 |
+| [sanyammm](https://github.com/sanyammm)           | [Apni Kaksha](https://www.youtube.com/channel/UCF7BExjT2zH_mmyqOB139Dg), [Frontend Mentor](https://www.frontendmentor.io/challenges),.               |
+| [Ocoderdude](https://github.com/Ocoderdude/)      | [Traversy Media](https://www.youtube.com/user/TechGuyWeb), . |
 | [aastha271100](https://github.com/aastha271100)   | [Leetcode](https://www.leetcode.com), [Hackerrank](https://www.hackerrank.com), [Coursera](https://www.coursera.org).                                                           |
-| [DekyDesigns](https://github.com/DekyDesigns)     | Udemy with instructors like [Andrei Neagoie](https://www.udemy.com/user/andrei-neagoie/) and [Colt Steele](https://www.udemy.com/user/coltsteele/), [Free Code Camp](https://www.freecodecamp.org/learn), [Code Pen](https://codepen.io/), [Coursera](https://coursera.org), [w3schools](https://www.w3schools.com/), [Stack Overflow](https://stackoverflow.com/). |
-| [romilj012](https://github.com/romilj012)         | Codechef, BootCamp, Coursera, Udemy.                                                                                                                                              |
-| [vaishnavprachi98](https://github.com/vaishnavprachi98) | Leetcode, Hackerrank, Coursera, Udemy, StackOverflow community.                                                                                                                  |
-| [Areen161](https://github.com/Areen161)           | [Sololearn](https://www.sololearn.com/).                                                                                                                                          |
-|                                                   | [first pull](https://github.com/Manik-Chauhan/first-contributions) for your first pull request.                                                                                   |
-|                                                   | Practice problems on platforms like [HackerRank](http://hackerrank.com), [HackerEarth](http://hackerearth.com), [CodeChef](http://codechef.com), [TopCoder](http://topcoder.com), [CodeForces](http://codeforces.com), [ProjectEuler](http://projecteuler.net), and [LeetCode](https://leetcode.com). |
-|                                                   | YouTube channel [techguyweb](https://www.youtube.com/user/TechGuyWeb).          |
-
-
-
+| [DekyDesigns](https://github.com/DekyDesigns)     | [Code Pen](https://codepen.io/),  |                    
+| [Areen161](https://github.com/Areen161)           | [Sololearn](https://www.sololearn.com/).       |
 
 
 </details>
