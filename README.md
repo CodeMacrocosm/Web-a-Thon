@@ -1,65 +1,91 @@
-# 🎉 Web-a-Thon'20 Contest 🚀💥
-
-🌟 Get Ready for the Ultimate Web Development Showdown! 🌟
 
 
-- 🏆[![Contributors](https://img.shields.io/badge/Contributors-119-brightgreen.svg)]()
+<div align="center">
 
-- 🏁[![Forks](https://img.shields.io/badge/Forks-127-blue.svg)]()
-  
-- ⭐[![Stars](https://img.shields.io/badge/Stars-37-yellow.svg)]()
+# 🎉 Web-a-Thon'20 : 🚀 Web Development Showdown! ✨
+
+</div>
+<p align="center">
+  <a href="https://github.com/CodeMacrocosm/Web-a-Thon-20/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Web-a-Thon-20?style=flat-square" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/CodeMacrocosm/Web-a-Thon-20/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Web-a-Thon-20?style=flat-square" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/codemacrocosm/Web-a-Thon-20/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Web-a-Thon-20.svg" alt="GitHub contributors">
+  </a>
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Web-a-Thon-20" alt="GitHub">
+</p>
+
+<div align="center">
+
+## ✨ Hall Of Fame
+
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
+
+<a href="https://github.com/codeMacrocosm/Web-a-Thon-20/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Web-a-Thon-20" />
+</a>
+
+</div>
 
 
 
-# 🌟 **Get Ready to Unleash Your Web Development Wizardry!** 🌟
 
-Welcome to **WEBATHON'20** contest, hosted by Shreya Malogi, where coding prowess meets creativity in a high-voltage web development contest! 💥
+### Table of Contents 📚
 
-Are you prepared to embark on an exhilarating journey, showcasing your web development skills like never before? Hold on tight because this isn't just any contest; it's the super-duper, mega-exciting, and professionally crafted challenge you've been eagerly waiting for! 🚀
-
-## **Why WEBATHON'20?** 🤩
-
-WEBATHON'20 isn't your ordinary contest. It's an extraordinary opportunity to push your web development boundaries and shine in the digital universe. Here's why you absolutely cannot miss out on this electrifying event:
-
-🌐 **Collaborative Creation**: Join hands with fellow developers to craft something extraordinary together. It's all about collaboration, innovation, and teamwork.
-
-🌟 **Star It, Fork It**: Before you dive into the action, show your support for the contest by starring ⭐ this repository. Don't forget to fork 🍴 it to make it your playground!
-
-🏆 **Competition at Its Best**: WEBATHON'20 is designed for web developers of all levels. Whether you're a seasoned coder or just starting your journey, there's a challenge tailored just for you.
-
-💡 **Learn and Grow**: Beyond the competition, this contest is a fantastic learning opportunity. Share your experiences, learn from others, and supercharge your skills.
+1. [Overview](#overview)
+2. [How to Contribute?](#how-to-contribute)
+3. [Resources for Beginners](https://github.com/CodeMacrocosm/Web-a-Thon-20/edit/master/README.md#resources-for-beginners)
+4. [Suggessions for beginners](https://github.com/CodeMacrocosm/Web-a-Thon-20/edit/master/README.md#suggestions-for-beginners)
+5. [Star it](#how-to-star-)
+6. [License](#-license)
+7. [Thanks Contributors](#contributors-)
 
 
-## How to Get Started 🛠️
+### Overview
 
-Let's make this contest journey as smooth as possible for you:
+🌟 **Get Ready to Unleash Your Web Development Wizardry!** 🌟 Welcome to **WEB-A-THON'20** contest, hosted by **Shreya Malogi**, where coding prowess meets creativity in a high-voltage web development contest! 💥 Are you prepared to embark on an exhilarating journey, showcasing your web development skills like never before? Hold on tight because this isn't just any contest; it's the super-duper, mega-exciting, and professionally crafted challenge you've been eagerly waiting for! 🚀
 
-1. **Fork This Repository**: Click the "Fork" button at the top of this page to create your personal copy of the repository. It's your canvas for creativity.
 
-2. **Clone the Repository**: Now, clone your forked repository to your local machine. 
 
-3. **Move Inside the Repository**: Open your terminal and navigate to the repository folder:
 
-4. **Create a New Branch**: It's time to make your mark. Create a new branch
+###  How to Contribute
 
-5. **Bring Your Vision to Life**: Explore the CONTRIBUTE.md file to discover various ways you can contribute to this web development extravaganza.
+🛠️ Let's make this contest journey as smooth as possible for you:🛠️
 
-6. **Commit Your Masterpiece**: Once you've poured your creativity into your work, commit your changes
+1. **Fork this Repository** 🍴
+
+   Click the "Fork" button at the top right corner of this repository to create your personal fork.
+
+2. **Clone Your Fork** 📥
+
+   ```bash
+   git clone https://github.com/codemacrocosm/Web-a-Thon-20.git
+   ```
+
+3. **Move Inside the Repository**: Open your terminal and navigate to the repository folder 📂
+
+4. **Create a New Branch**: It's time to make your mark. Create a new branch 🌱
+
+5. **Bring Your Vision to Life**: Explore the `CONTRIBUTE.md` file to discover various ways you can contribute to this web development extravaganza 🚀💡
+
+6. **Commit Your Masterpiece**: Once you've poured your creativity into your work, commit your changes 🎨
 
 7. **Create Separate Files for Resources and Suggestions**: To share your resources and suggestions, create separate markdown files:
    
-    - For resources, in the file named `resources.md` and add your recommended resources there.
+    - For resources, in the file named `resources.md` and add your recommended resources there 📚
 
-    - For suggestions, in the file named `suggestions.md` and add your suggestions there.
-
-
-8. **Finally,** share your brilliance with the world**:
+    - For suggestions, in the file named `suggestions.md` and add your suggestions there 💬
 
 
-9. **Create a Pull Request**: Visit your GitHub repository and click the "Compare & Pull Request" button. Submit your pull request, and feel free to add a personal message.
+8. **Create a Pull Request**: Visit your GitHub repository and click the "Compare & Pull Request" button. Submit your pull request, and feel free to add a personal message 🚀💬
 
+### Resources for Beginners
 
-# Resources for Beginners
+In this contest, our experienced contributors offer valuable resources to beginners. Each contributor has shared their resources to study coding and GitHub profile, so you can follow from their insights 🚀💡
+<details>
 
 
 | Contributor           | GitHub Profile                                     | Resources                                                                                                                                                                           |
@@ -100,9 +126,14 @@ Let's make this contest journey as smooth as possible for you:
 | Sneha                 |             | Practice problems on platforms like [HackerRank](http://hackerrank.com), [HackerEarth](http://hackerearth.com), [CodeChef](http://codechef.com), [TopCoder](http://topcoder.com), [CodeForces](http://codeforces.com), [ProjectEuler](http://projecteuler.net), and [LeetCode](https://leetcode.com). |
 | Akanksha7             |                                                   | YouTube channel [techguyweb](https://www.youtube.com/user/TechGuyWeb).          
 
+
+</details>
                                                           
-# Suggestions for Beginners
-In this contest, our experienced contributors offer valuable suggestions to beginners. Each contributor has shared their advice and GitHub profile, so you can learn from their insights.
+### Suggestions for Beginners
+
+In this competition, seasoned contributors provide valuable guidance to beginners 🚀. Each contributor shares their advice and GitHub profile, allowing you to glean insights from their experiences 💡.
+
+<details>
 
 | Contributor          | GitHub Profile                                      | Suggestion                                                                                                                        |
 | -------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -128,25 +159,27 @@ In this contest, our experienced contributors offer valuable suggestions to begi
 | Harpreet Madaan      | [harpreet199](https://github.com/harpreet199)      | Understand your field of interest, focus on one field, and master it while moving towards other technology.                   |
 | Prateek              | [Ocoderdude](https://github.com/Ocoderdude)        | Do not memorize solutions to competitive problems; instead, understand the logic or the pattern used in the problem. Try to make your code optimized with good space and time complexity. |
 
+</details>
 
 
-## **Star This Repository** ⭐
-Show your love and support for WEBATHON'20 by starring ⭐ this repository. Let's make it shine brighter than a supernova!
+### How to Star ⭐
 
-## **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+If you enjoyed this repo or find them inspiring, don't forget to ⭐ the repository! Your support is appreciated.
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
 
 MIT License
 
 Copyright (c) 2020 CodeMacrocosm
 
-## **Motivation** 🌟
 
-- There seems to be a lot of hype. Contributing to Open Source can be a highly satisfying experience, especially for new developers out there who have just started with their journey.
+### Contributors 🙌
 
-- WEBATHON'20 is more than just a contest; it's your golden ticket to shine, learn, and make an indelible mark in the world of web development. Join us on this extraordinary journey and let your creativity soar to heights never imagined! 🏆🌐🚀
+A big thanks to all the creative minds who have contributed.
 
-## **How will this work:** 😊
-You get your PR's done and contribute to a cool repository by sharing your stories and struggles, all while helping others along their journey.
+Now, let the creation begin! Happy coding! 🎨✨
 
-**Happy Coding. Give it your all!** 🚀🌈🌟
+
+
