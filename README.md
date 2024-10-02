@@ -6,16 +6,16 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/CodeMacrocosm/Web-a-Thon-20/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Web-a-Thon-20?style=flat-square" alt="GitHub stars">
+  <a href="https://github.com/CodeMacrocosm/Web-a-Thon/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Web-a-Thon?style=flat-square" alt="GitHub stars">
   </a>
   <a href="https://github.com/CodeMacrocosm/Web-a-Thon-20/network">
-    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Web-a-Thon-20?style=flat-square" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Web-a-Thon?style=flat-square" alt="GitHub forks">
   </a>
-  <a href="https://github.com/codemacrocosm/Web-a-Thon-20/graphs/contributors">
+  <a href="https://github.com/codemacrocosm/Web-a-Thon/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/codemacrocosm/Web-a-Thon-20.svg" alt="GitHub contributors">
   </a>
-  <img src="https://img.shields.io/github/license/CodeMacrocosm/Web-a-Thon-20" alt="GitHub">
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Web-a-Thon" alt="GitHub">
 </p>
 
 <div align="center">
@@ -24,8 +24,8 @@
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
-<a href="https://github.com/codeMacrocosm/Web-a-Thon-20/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Web-a-Thon-20" />
+<a href="https://github.com/codeMacrocosm/Web-a-Thon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Web-a-Thon" />
 </a>
 
 </div>
@@ -62,7 +62,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 2. **Clone Your Fork** 📥
 
    ```bash
-   git clone https://github.com/codemacrocosm/Web-a-Thon-20.git
+   git clone https://github.com/codemacrocosm/Web-a-Thon.git
    ```
 
 3. **Move Inside the Repository**: Open your terminal and navigate to the repository folder 📂
