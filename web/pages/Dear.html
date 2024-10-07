@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="../stylesheet/Dear.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap"
+      rel="stylesheet"
+    />
+    <title>Just POP</title>
+</head>
+<script>
+  const IMAGE_PATH = ["../images/hup.png", "../images/ahh.png"];
+  let state = false;
+  let count = 0;
+  $(document).bind("contextmenu", function (e) {
+    return false;
+  });
+  function handleOnClick() {
+    count += 1;
+    state = !state;
+    document.getElementById("count").innerHTML = count;
+    document.getElementById("image").src = IMAGE_PATH[state | 0];
+  }
+</script>
+<body>
+    
+    <h1 class="text">Hi! I'm Dear and I known we all love cat!!</h1>
+    
+    <div
+      id="container"
+      onmousedown="return false"
+      onselectstart="return false"
+      oncopy="return false"
+      onclick="handleOnClick()"
+    >
+      <div class="text">
+        <h1>POP ME</h1>
+        <h2 id="count">0</h2>
+      </div>
+      <img id="image" src="../images/hup.png" />
+    </div>
+</body>
+</html>
