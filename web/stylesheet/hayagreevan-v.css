@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-items: center;
+    height: 98vh;
+    justify-content: center;
+    background-color: aqua;
+    color: orangered;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: blueviolet;
+}
