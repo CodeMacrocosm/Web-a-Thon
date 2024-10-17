@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Registration</title>
+  <link rel="stylesheet" href="keerthana.css">
+</head>
+<body>
+  <div class="container">
+    <div class="form-box">
+      <h2>Login</h2>
+      <form id="loginForm">
+        <div class="input-group">
+          <label for="loginEmail">Email</label>
+          <input type="email" id="loginEmail" required>
+        </div>
+        <div class="input-group">
+          <label for="loginPassword">Password</label>
+          <input type="password" id="loginPassword" required>
+        </div>
+        <button type="submit">Login</button>
+        <p class="error-message" id="loginError"></p>
+      </form>
+    </div>
+
+    <div class="form-box">
+      <h2>Sign Up</h2>
+      <form id="signUpForm">
+        <div class="input-group">
+          <label for="signUpEmail">Email</label>
+          <input type="email" id="signUpEmail" required>
+        </div>
+        <div class="input-group">
+          <label for="signUpPassword">Password</label>
+          <input type="password" id="signUpPassword" required>
+        </div>
+        <div class="input-group">
+          <label for="confirmPassword">Confirm Password</label>
+          <input type="password" id="confirmPassword" required>
+        </div>
+        <button type="submit">Sign Up</button>
+        <p class="error-message" id="signUpError"></p>
+      </form>
+    </div>
+  </div>
+
+  <script src="keerthana.js"></script>
+</body>
+</html>
