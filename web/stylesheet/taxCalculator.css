@@ -1,0 +1,120 @@
+.container {
+    max-width: 400px;
+    margin-left: 500px;
+    margin-top: 150px;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(114, 146, 220);
+    color: rgb(44, 42, 42);
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+.error-tooltip {
+    display: none;
+    color: red;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: #333;
+    color: rgb(114, 146, 220);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+input,
+select {
+    width: 100%;
+}
+
+.input-group {
+    position: relative;
+
+}
+
+.error-icon {
+    position: absolute;
+    top: 20%;
+    right: 1px;
+    transform: translateY(-50%);
+    color: rgb(156, 3, 3);
+    cursor: pointer;
+}
+
+.error-tooltip {
+    color: rgb(156, 3, 3);
+}
+
+.error-icon:hover+.error-tooltip {
+    display: inline;
+
+}
+
+.info-tooltip {
+    position: relative;
+}
+
+.info-tooltip .tooltip-text {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 150px;
+    text-align: center;
+}
+
+.info-tooltip:hover .tooltip-text {
+    display: block;
+}
+
+#submitBtn {
+    text-align: center;
+    padding: 10px;
+    margin-left: 140px;
+    margin-top: 20px;
+    background-color: #333;
+    color: rgb(114, 146, 220);
+    font-size: 15px;
+}
