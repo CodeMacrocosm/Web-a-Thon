@@ -1,3 +1,3 @@
 //Under progress
-alert("Connected!!!!");
+alert("Connected!!!");
 © 2020 GitHub, Inc.
