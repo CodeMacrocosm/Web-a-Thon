@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #d097a6;
+}
+
+.banner {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-image: url('https://preview.redd.it/gdyanfyezii71.png?width=1920&format=png&auto=webp&s=76963d5e0278437a2ec13d614db73a7648a99c49');
+    background-size: cover;
+    background-position: center;
+}
+
+.glass {
+    background: rgba(255, 234, 234, 0.263);
+    border-radius: 10px;
+    padding: 100px 200px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.glass h1 {
+    color: #cb1f5b;
+    font-size: 4rem;
+}
+
+.projects {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.projects h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    color: #d14467;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 0 50px;
+}
+
+.card {
+    background-color: rgb(152, 22, 66);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #f8a8be;
+}
+
+.card p {
+    font-size: 1rem;
+    color: #e593a8;
+}
