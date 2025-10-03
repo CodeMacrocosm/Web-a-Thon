@@ -53,3 +53,5 @@ I [Harpreet Madaan] (https://github.com/harpreet199) I would like to suggest for
 
 I [Prateek](https://github.com/Ocoderdude) suggest you to not memorizing the solutions to the competetive problems, instead understand the logic or the pattern used in the problem. Try to make your code optimised always with good space and time complexity.
 
+I [Muteeb](https://github.com/Muteeb489) would like to suggest you to pick up a project
+and try to start coding it. Tutorials are nice and all but to make exponential progress you need hands on practice at some point. So use building projects as your learning model instead of getting stuck in tutorial hell.
