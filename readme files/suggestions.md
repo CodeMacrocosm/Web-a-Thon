@@ -55,3 +55,5 @@ I [Prateek](https://github.com/Ocoderdude) suggest you to not memorizing the sol
 
 I [Muteeb](https://github.com/Muteeb489) would like to suggest you to pick up a project
 and try to start coding it. Tutorials are nice and all but to make exponential progress you need hands on practice at some point. So use building projects as your learning model instead of getting stuck in tutorial hell.
+
+I [Himanshu Sharma](https://github.com/Himma08) suggests you to never stop learning.
