@@ -132,4 +132,13 @@ I [Areen](https://github.com/Areen161) would like to recommend [Sololearn](https
 
 I [Muteeb](https://github.com/Muteeb489) would like to recommend [Meta](https://www.coursera.org/professional-certificates/meta-front-end-developer?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_meta-front-end-developer_meta_ftcof_professional-certificates_cx_dr_bau_gg_pmax_pr_s2-v2_en_m_hyb_25-08_x&campaignid=22913750309&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6603183056&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=22913754413&gbraid=0AAAAADdKX6bultO1bjGu4nTeIzAF97mdY&gclid=CjwKCAjw6P3GBhBVEiwAJPjmLhCIA0JKc3aJB1sb1d8-e8M9eXYktBnoau5yDkjbiz1S1VmST7sHCBoCBP8QAvD_BwE)
 
-I [Himanshu Sharma](https://github.com/Himma08) recommend [w33schools](https://www.w3schools.com/)
+I [Himanshu Sharma](https://github.com/Himma08) recommend [w33schools](https://www.w3schools.com/)                                                                                                                                                       
+
+I [Ritesh kumar](https://github.com/riteshroyal834047-crypto) recommend you following Youtube Channels:
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
+* [The New Boston](https://www.youtube.com/user/thenewboston)
+* [Derek Banas](https://www.youtube.com/user/derekbanas)
+* [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
