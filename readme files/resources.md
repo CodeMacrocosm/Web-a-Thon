@@ -133,3 +133,12 @@ I [Areen](https://github.com/Areen161) would like to recommend [Sololearn](https
 I [Muteeb](https://github.com/Muteeb489) would like to recommend [Meta](https://www.coursera.org/professional-certificates/meta-front-end-developer?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_meta-front-end-developer_meta_ftcof_professional-certificates_cx_dr_bau_gg_pmax_pr_s2-v2_en_m_hyb_25-08_x&campaignid=22913750309&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6603183056&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=22913754413&gbraid=0AAAAADdKX6bultO1bjGu4nTeIzAF97mdY&gclid=CjwKCAjw6P3GBhBVEiwAJPjmLhCIA0JKc3aJB1sb1d8-e8M9eXYktBnoau5yDkjbiz1S1VmST7sHCBoCBP8QAvD_BwE)
 
 I [Himanshu Sharma](https://github.com/Himma08) recommend [w33schools](https://www.w3schools.com/)
+
+I [Siddhant Kumar Thakur](https://github.com/siddhantthakur278-bit) recommend to practice problems as much as you can from below platforms:
+ * [HackerRank](http://hackerrank.com) - Solve code challenges to prepare for programming interviews.
+ * [HackerEarth](http://hackerearth.com) - Solve code challenges to help companies find innovative solutions for their businesses.
+ * [CodeChef](http://codechef.com) - Non-profit competitive programming platform.
+ * [TopCoder](http://topcoder.com) - Participate in code challenges and help solve real world problems.
+ * [CodeForces](http://codeforces.com) - Russian website dedicated to competitive programming.
+ * [ProjectEuler](http://projecteuler.net) - Solve computational and mathematical problems using your programming skills.
+ * [LeetCode](https://leetcode.com) - Develop programming skills for your next interview.
