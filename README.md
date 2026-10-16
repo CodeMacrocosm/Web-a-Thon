@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🎉 Web-a-Thon' 20 : 🚀 Web Development Showdown 
+# 🎉 Web-a-Thon 20 : 🚀 Web Development Showdown 
 
 </div>
 <p align="center">
